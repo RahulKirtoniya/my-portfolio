@@ -6,7 +6,7 @@ export const profile: Profile = {
   availability: "Available for Opportunities",
   heroDescription:
     "Building robust, scalable applications with modern technologies. Specialized in full-stack development, cloud solutions on AWS, and system architecture. Passionate about creating elegant solutions to complex problems.",
-  cvHref: "Rahul_Kirtoniya_CV.pdf",
+  cvHref: "Rahul-Kirtoniya-CV.pdf",
   email: "Rahulkirtoniya12@gmail.com",
   whatsapp: "+91 8597138810",
   whatsappHref: "https://wa.me/918597138810",
