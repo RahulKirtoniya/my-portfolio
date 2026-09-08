@@ -1,0 +1,13 @@
+export { Navbar } from "./Navbar";
+export { SocialSidebar } from "./SocialSidebar";
+export { SectionHeader } from "./SectionHeader";
+export { Hero } from "./Hero";
+export { About } from "./About";
+export { Education } from "./Education";
+export { Experience } from "./Experience";
+export { Skills } from "./Skills";
+export { Projects } from "./Projects";
+export { Certifications } from "./Certifications";
+export { Services } from "./Services";
+export { Contact } from "./Contact";
+export { Footer } from "./Footer";

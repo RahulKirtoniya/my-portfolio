@@ -1,0 +1,10 @@
+export { profile } from "./profile";
+export { navItems } from "./navigation";
+export { socials } from "./socials";
+export { codeWindowLines } from "./codeWindow";
+export { education } from "./education";
+export { experience } from "./experience";
+export { skills } from "./skills";
+export { projects } from "./projects";
+export { certifications, leetcode } from "./certifications";
+export { services } from "./services";

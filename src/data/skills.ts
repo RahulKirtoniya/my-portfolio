@@ -1,0 +1,27 @@
+import type { Skill } from "@/types";
+
+export const skills: readonly Skill[] = [
+  { name: "AWS Cloud", icon: "fab fa-aws", color: "#FF9900" },
+  { name: "MySQL", icon: "fas fa-database", color: "#4479A1" },
+  { name: "PHP", icon: "fab fa-php", color: "#777BB4" },
+  { name: "Laravel", icon: "fab fa-laravel", color: "#FF2D20" },
+  { name: "AI Integration", icon: "fas fa-robot", color: "#FF6B6B" },
+  { name: "React.js", icon: "fab fa-react", color: "#61DAFB" },
+  { name: "Node.js", icon: "fab fa-node-js", color: "#5FA04E" },
+  { name: "TypeScript", icon: "fas fa-code", color: "#3178C6" },
+  { name: "Java", icon: "fab fa-java", color: "#007396" },
+  { name: "JavaScript", icon: "fab fa-js-square", color: "#F7DF1E" },
+  { name: "Python", icon: "fab fa-python", color: "#3776AB" },
+  { name: "CI/CD", icon: "fas fa-cogs", color: "#6DB33F" },
+  { name: "HTML5", icon: "fab fa-html5", color: "#E34F26" },
+  { name: "CSS3", icon: "fab fa-css3-alt", color: "#1572B6" },
+  { name: "GitHub", icon: "fab fa-github", color: "#f8fafc" },
+  { name: "System Automation", icon: "fas fa-sitemap", color: "#10B981" },
+  { name: "Bootstrap", icon: "fab fa-bootstrap", color: "#7952B3" },
+  { name: "Microservices", icon: "fas fa-cubes", color: "#06b6d4" },
+  { name: "Cron Jobs", icon: "fas fa-clock", color: "#F59E0B" },
+  { name: "Agile/SDLC", icon: "fas fa-code-branch", color: "#8b5cf6" },
+  { name: "VS Code", icon: "fas fa-terminal", color: "#22c55e" },
+  { name: "Postman", icon: "fas fa-network-wired", color: "#ec4899" },
+  { name: "Android Studio", icon: "fab fa-android", color: "#3DDC84" },
+];

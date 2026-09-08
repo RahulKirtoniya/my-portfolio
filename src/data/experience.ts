@@ -1,0 +1,57 @@
+import type { Experience } from "@/types";
+
+export const experience: readonly Experience[] = [
+  {
+    icon: "fas fa-chart-line",
+    kind: "consulting",
+    role: "Managing Partner & Tech Consultant",
+    company: "Shaanark Ventures",
+    location: "Paramaribo, Suriname",
+    workMode: "Hybrid",
+    locationIcon: "fas fa-map-marker-alt",
+    period: "Jul 2026 - Present",
+    achievements: [
+      "Global Project & Account Management: Direct cross-border operations and deliver high-impact client projects across international markets, including key accounts in the United Kingdom and Suriname.",
+      "Regional Leadership: Lead end-to-end service delivery and client engagement operations based in Kolkata, driving resource allocation, process efficiency, and execution quality.",
+      "Product Development & Strategy: Steer the conceptualization, strategic roadmap, and execution of new proprietary products focusing on scalable intellectual property and market growth.",
+      "Venture Leadership: Drive overall business expansion, partnership growth, and high-level strategic positioning for the venture across domestic and global frontiers.",
+    ],
+  },
+  {
+    icon: "fas fa-briefcase",
+    kind: "full-time",
+    role: "Full Stack Engineer",
+    company: "Miracle Groups Bahrain",
+    location: "Northern Governorate, Bahrain",
+    workMode: "On-site",
+    locationIcon: "fas fa-map-marker-alt",
+    period: "Jul 2024 - Jul 2026",
+    achievements: [
+      "Served as the sole developer independently designing, developing, testing and deploying enterprise web applications end-to-end using PHP, Laravel, ReactJS, Node.js, Next.js, TypeScript, MySQL and AWS.",
+      "Built and maintained complete enterprise systems from scratch, managing 11,000+ client records.",
+      "Integrated AI-powered automation using the OpenAI GPT API, reducing manual workflows by 40%.",
+      "Developed a WhatsApp Cloud API-based event automation system with real-time analytics.",
+      "Managed the complete codebase using Git and GitHub, including version control, code reviews, branching and repository management.",
+      "Developed government compliance systems for LMRA Bahrain covering Sijilat registration, immigration services, CR/CPR renewals and work permit processes.",
+      "Managed AWS cloud deployments, CI/CD pipelines and complete Software Development Life Cycle (SDLC) ownership.",
+      "Developed and maintained a corporate website with SEO optimization, lead generation and lead capture functionality.",
+    ],
+  },
+  {
+    icon: "fas fa-mobile-alt",
+    kind: "internship",
+    role: "Android Developer Intern",
+    company: "TuDime LLC",
+    location: "Remote",
+    workMode: "Remote",
+    locationIcon: "fas fa-globe",
+    period: "March 2024 - May 2024",
+    achievements: [
+      "Designed UI/UX for a California-based chat application and managed intern team tasks.",
+      "Reported project progress and milestones directly to the Vice President.",
+      "Gained hands-on exposure to Arduino for understanding hardware functionality and embedded systems.",
+      "Experimented with Arduino projects including LED blinking patterns, timer mechanisms, and system automation.",
+      "Designed and built an automated Duck Hatching Product using Arduino that operates without human interaction, incorporating temperature control, humidity monitoring, and automated egg turning.",
+    ],
+  },
+];
