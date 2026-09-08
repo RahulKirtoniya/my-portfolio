@@ -15,7 +15,7 @@ export const projects: readonly Project[] = [
     title: "Business Website",
     description:
       "Full-stack web application built with React.js frontend, Node.js backend, and MySQL database. Features clean, modern design with responsive layout.",
-    link: { type: "live", href: "http://miraclegroups.miracle-its.com/" },
+    link: { type: "live", href: "http://miraclegroups.com/" },
   },
   {
     index: "03",
